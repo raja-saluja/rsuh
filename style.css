@@ -1,0 +1,100 @@
+*{
+    margin : 0;
+    padding: 0;
+    font-family: 'cursive', lucida ;
+    align-items: center;      /* Center the container vertically */
+    justify-content: center;  /* Center the container horizontally */
+
+
+    box-sizing: border-box;
+}
+
+
+
+.container{
+    max-width: 100%;
+    height: 100vh;
+}
+
+.slides{
+
+    margin: 0;
+    padding: 0;
+   
+    background-size: cover;
+    
+    background-repeat: no-repeat;
+    
+
+    background-attachment: fixed;
+
+    width: 100%;
+    height: 500vh;
+
+    
+    /* align-items: center; */
+
+    justify-content: center;  /* Center the container horizontally */
+
+    justify-content: center;
+    text-align: center;
+    gap: 20px;
+    color: #0f0202;
+   /* background-image: url("https://c4.wallpaperflare.com/wallpaper/262/741/167/anime-naruto-hinata-hy%C5%ABga-naruto-uzumaki-wallpaper-preview.jpg");
+*/
+}
+
+ 
+.slides img{
+    width: 822
+    00px;
+}
+
+
+
+.slides img{
+    width: 400px;
+
+.slides h2{
+    font-size: 80px;
+    font-weight: 2000;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;  /* Center the container horizontally */
+
+    .bold-text {
+        font-weight: bold;
+    }
+    
+
+
+    .slides img{
+        width: 400px;
+
+}
+.slides h3{
+    font-size: 80px;
+    font-weight: 2000;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;  /* Center the container horizontally */
+
+}
+
+.slides h4{
+    font-size: 80px;
+    font-weight: 2000;
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'cursive' ;
+    justify-content: center;  /* Center the container horizontally */
+
+}
+
+
+}
+
+}
